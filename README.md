@@ -1,9 +1,8 @@
 # ERP17 - সম্পূর্ণ Features Documentation
 
-> **Software:** ERP17 by Rayan Tech Solution
 > **URL:** https://app.erp17.com
 > **তারিখ:** ৩০ জুন, ২০২৬
-> **Organization:** halishahar
+
 
 ### 📘 প্রতিটি মডিউল কীভাবে কাজ করে (বাংলা)
 **[ERP17-Kivabe-Kaj-Kore.md](./ERP17-Kivabe-Kaj-Kore.md)** — HRM, Accounts, POS, Inventory সহ সব মডিউলের কাজ, ধাপ ও সম্পর্ক বাংলায় ব্যাখ্যা।
